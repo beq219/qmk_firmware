@@ -13,4 +13,4 @@ RGBLIGHT_ENABLE = yes       # Enable WS2812 RGB underlight.
 OLED_ENABLE = yes
 OLED_DRIVER = SSD1306     # Enable Support for SSD1306 or SH1106 OLED Displays; Communicating over I2C
 OLED_DRIVER_ENABLE = yes
-# WPM_ENABLE = yes
+WPM_ENABLE = yes
